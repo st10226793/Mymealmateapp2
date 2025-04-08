@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">MealMate</string>
+
+    <!-- Button Texts -->
+    <string name="submit_button" translatable="false">Get Suggestion</string>
+    <string name="reset_button" translatable="false">Reset</string>
+    <string name="hello_world" translatable="false">Welcome to MealMate App</string>
+    <string name="menu" translatable="false">Items</string>
+    <string name="get_suggestion" translatable="false">Get Suggestion</string>
+    <string name="items" translatable="false">Items</string>
+    <string name="menu_button" translatable="false">Items</string>
+    <string name="mealmate" translatable="false">MealMate</string>
+    <string name="cart_label" translatable="false">Cart:</string>
+    <string name="select_time_of_day" translatable="false">Select Time of Day:</string>
+    <string name="select_meal_item" translatable="false">Select Meal Item:</string>
+    <string name="add_to_cart" translatable="false">Add to Cart</string>
+</resources>
